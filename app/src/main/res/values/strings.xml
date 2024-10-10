@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email\n</string>
+    <string name="password">Password</string>
+    <string name="content_description_end_icon_check">ok</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_a_account">Don´t have a account?</string>
+    <string name="go_to_google">go to google</string>
+    <string name="go_to_x">go to X</string>
+    <string name="go_to_facebook">go to facebook\n</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Name\n</string>
+    <string name="sign_up">Sing up\n</string>
+    <string name="enter_your_email">Please enter your email address.
+        You will receive a link to create a new password via email</string>
+
+    <string name="confirm_password">Confirm password</string>
+    <string name="send">SEND\n\n</string>
+    <string name="password_has_ben_reseted">password has ben reseted!</string>
+    <string name="ok">ok</string>
+    <string name="back_button_description">go back\n\n</string>
+    <string name="newPassword">new password</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="ingress_a_new_password_and_confirm">Ingress a new password and confirm.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="pais">Countries</string>
+    <string name="save">Save\n</string>
+    <string name="profile_image">profile image</string>
+    <string name="edit_profile_image">Edit profile image\n\n</string>
+    <string name="phone">phone</string>
+    <string name="editar_perfil">Edit Profile\n</string>
+</resources>
